@@ -1,0 +1,15 @@
+﻿  B_Console.cpp
+  Application.cpp
+  Input.cpp
+  main.cpp
+  GameObject.cpp
+  Vulkan_debug.cpp
+  Vulkan_GltfResource.cpp
+  Vulkan_Init.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 350 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ghost.vcxproj -> C:\Users\ASUS\Desktop\Ghost\x64\Release\Ghost.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

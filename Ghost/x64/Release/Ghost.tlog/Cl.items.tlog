@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\Ghost\Ghost\Base\B_Console.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\B_Console.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Game\Application.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\Application.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Game\Input.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\Input.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Game\main.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\main.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Game\GameObject.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\GameObject.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Vulkan_debug.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\Vulkan_debug.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Vulkan_GltfResource.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\Vulkan_GltfResource.obj
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Vulkan_Init.cpp;C:\Users\ASUS\Desktop\Ghost\Ghost\x64\Release\Vulkan_Init.obj
