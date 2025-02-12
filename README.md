@@ -34,4 +34,3 @@
 
 
 
-![ghost Screenshot 2025 02 12 - 21 46 31 39](https://github.com/user-attachments/assets/d5e4628c-de39-4ad9-be09-6154e19fafcc)
