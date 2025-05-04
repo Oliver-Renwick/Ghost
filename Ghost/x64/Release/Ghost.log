@@ -1,0 +1,67 @@
+﻿  B_Console.cpp
+  Application.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Game/Application.cpp')
+  
+  Camera.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Game/Camera.cpp')
+  
+  Game_Window.cpp
+  Input.cpp
+  main.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Game/main.cpp')
+  
+  GameObject.cpp
+  Scene.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Game/Scene.cpp')
+  
+C:\Users\ASUS\Desktop\Ghost\Ghost\Game\Scene.cpp(67,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Buffer.cpp
+  Command_Buffer.cpp
+  Gpu_Resource.cpp
+  Model.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Graphics/Model.cpp')
+  
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Model.cpp(161,8): warning C4101: '_vert': unreferenced local variable
+  Render.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Graphics/Render.cpp')
+  
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Render.cpp(591,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Render.cpp(591,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Texture.cpp
+  Vulkan_debug.cpp
+  Vulkan_GltfResource.cpp
+  Vulkan_Init.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Graphics\Vulkan_Init.cpp(235,21): warning C4018: '<': signed/unsigned mismatch
+  Body.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Physics/Body.cpp')
+  
+  Contact.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Physics/Contact.cpp')
+  
+  Intersection.cpp
+C:\Users\ASUS\Desktop\Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Physics/Intersection.cpp')
+  
+  Compiling...
+  Shapes.cpp
+  Sphere_Shape.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_vulkan.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  UI.cpp
+Texture.obj : error LNK2001: unresolved external symbol __imp_ktxTexture_GetDataSize
+Texture.obj : error LNK2001: unresolved external symbol __imp_ktxTexture_GetData
+Texture.obj : error LNK2001: unresolved external symbol __imp_ktxTexture_CreateFromNamedFile
+C:\Users\ASUS\Desktop\Ghost\x64\Release\Ghost.exe : fatal error LNK1120: 3 unresolved externals

@@ -1,0 +1,10 @@
+﻿  Camera.cpp
+C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Math\Quat.h(129,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Game/Camera.cpp')
+  
+C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Game\Camera.h(19,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Game/Camera.cpp')
+  
+  Ghost.vcxproj -> C:\Users\ASUS\Desktop\Networking Ghost\x64\Debug\Ghost.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,212 @@
+88 [1040] INFO perfrun.launcher <> - Launcher main begin
+94 [1040] INFO perfrun.launcher <> - MessageCatalogInit finished
+94 [1040] INFO perfrun.launcher <> - Launcher instance created
+94 [1040] INFO perfrun.launcher <> - argc = 7; cmdline = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\amplxe-runss.exe --ui-output-format xml --ui-output-fd 1220 --option-file C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\config\runss.options 
+105 [1040] INFO perfrun.launcher <> - New signal handler callback was added
+158 [1040] INFO perfrun.perfcollector <> - SEP tool path: C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\sep.exe
+172 [1040] INFO perfrun.launcher <> - create msngr2::ICliToolContext
+172 [1040] INFO perfrun.launcher <> - create file finder object
+172 [1040] INFO perfrun.launcher <> - create a result directory: pattern = C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps pid = 4294967295
+178 [1040] INFO perfrun.launcher <> - create data directory = C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0
+182 [1040] INFO perfrun.launcher <> - Creating the master collection flag
+198 [1040] INFO perfrun.launcher <> - Done creating the master collection flag
+198 [9308] INFO perfrun.launcher <> - plugin [remoteplug] was disabled because it doesn't support the given collection type.
+199 [9308] INFO perfrun.sdk <> - Allocating TMU :C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0\systemcollector-2360-oliverpc.sc
+199 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+203 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+203 [9308] INFO perfrun.launcher <> - plugin [gpu] was disabled because it doesn't support the given collection type.
+203 [9308] INFO perfrun.launcher <> - plugin [etw.kernel] was disabled because it doesn't support the given collection type.
+203 [9308] INFO perfrun.launcher <> - plugin [etw.dx] was disabled because it doesn't support the given collection type.
+203 [9308] INFO perfrun.launcher <> - plugin [etw.wsa] was disabled because it doesn't support the given collection type.
+203 [9308] INFO perfrun.mrte <> - system-wide mode is 0
+203 [9308] INFO perfrun.mrte <> - Getting  mrte profiling environment ...
+271 [9308] INFO perfrun.mrte <> - INTEL_MRTE_DATA_DIR=C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0
+271 [9308] INFO perfrun.mrte <> - INTEL_MRTE_HOST_NAME=oliverpc
+271 [9308] INFO perfrun.mrte <> - JAVA_TOOL_OPTIONS=-agentlib:amplxe_samplingmrte_javaprof_1.0
+271 [9308] INFO perfrun.mrte <> - PATH=C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\runtime;C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\runtime;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\VulkanSDK\1.3.275.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\glfw-3.4.bin.WIN64\lib-vc2022;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\CMake\bin;C:\Program Files\PuTTY\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Assimp\bin\x64;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.3.2\;C:\Users\ASUS\Desktop\Reference\premake-5.0.0-beta4-src\bin\release;C:\MinGW\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\ASUS\Desktop\Reference\vcpkg;C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\ASUS\AppData\Local\Programs\Python\Python313\;C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\ASUS\AppData\Local\Programs\Python\Python312\;C:\Users\ASUS\AppData\Local\Programs\Python\Launcher\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\.dotnet\tools;C:\Program Files\KTX-Software\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Local\Programs\Ollama
+271 [9308] INFO perfrun.mrte <> - COR_ENABLE_PROFILING=1
+272 [9308] INFO perfrun.mrte <> - COR_PROFILER={AA5E4821-E3B1-479c-B7FF-5AD047D22CED}
+272 [9308] INFO perfrun.mrte <> - COMPLUS_ProfAPI_ProfilerCompatibilitySetting=EnableV2Profiler
+272 [9308] INFO perfrun.mrte <> - CORECLR_ENABLE_PROFILING=1
+272 [9308] INFO perfrun.mrte <> - CORECLR_PROFILER={AA5E4821-E3B1-479c-B7FF-5AD047D22CED}
+272 [9308] INFO perfrun.mrte <> - CORECLR_PROFILER_PATH=C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64/amplxe_samplingmrte_clrprof_1.0.dll
+272 [9308] INFO perfrun.mrte <> - INTEL_MRTE_PROFILER_MODE=mixed
+272 [9308] INFO perfrun.mrte <> - Data directory: C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0
+272 [9308] INFO perfrun.mrte <> - Mrte plugin is initialized
+272 [9308] INFO perfrun.launcher <> - plugin [emon] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.launcher <> - plugin [cuscol] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.launcher <> - plugin [stdsrc] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.launcher <> - plugin [sep] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.launcher <> - plugin [vtsspp] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.launcher <> - plugin [perf] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.launcher <> - plugin [aoclprofile] was disabled because it doesn't support the given collection type.
+272 [9308] INFO perfrun.tpss <> - initialize tpss controller
+272 [9308] INFO perfrun.tpss <> - configure collection mode: value = cpu:counters:nostack
+272 [9308] INFO perfrun.tpss <> - configure collection mode: value = cpu:nostack
+272 [9308] INFO perfrun.tpss <> - default obj-size-min=1024
+272 [9308] INFO perfrun.tpss <> - default hash-table-size=0
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [power] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [l0_metrics] was disabled because it doesn't support the given collection type.
+273 [9308] INFO perfrun.launcher <> - plugin [stall_reasons] was disabled because it doesn't support the given collection type.
+273 [1040] INFO perfrun.launcher <> - set environment variable: PATH = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\runtime;C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\runtime;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\VulkanSDK\1.3.275.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\glfw-3.4.bin.WIN64\lib-vc2022;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\CMake\bin;C:\Program Files\PuTTY\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Assimp\bin\x64;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.3.2\;C:\Users\ASUS\Desktop\Reference\premake-5.0.0-beta4-src\bin\release;C:\MinGW\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\ASUS\Desktop\Reference\vcpkg;C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\ASUS\AppData\Local\Programs\Python\Python313\;C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\ASUS\AppData\Local\Programs\Python\Python312\;C:\Users\ASUS\AppData\Local\Programs\Python\Launcher\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\.dotnet\tools;C:\Program Files\KTX-Software\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Local\Programs\Ollama
+273 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_LIBITTNOTIFY32 = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\runtime\ittnotify_collector.dll
+273 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_LIBITTNOTIFY64 = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\runtime\ittnotify_collector.dll
+273 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_ITTNOTIFY_GROUPS = 
+274 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_JIT_PROFILER32 = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\runtime\ittnotify_collector.dll
+274 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_JIT_PROFILER64 = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\runtime\ittnotify_collector.dll
+274 [1040] INFO perfrun.launcher <> - set environment variable: CCL_ITT_LEVEL = 1
+274 [1040] INFO perfrun.launcher <> - set environment variable: ENABLE_JITPROFILING = 1
+274 [1040] INFO perfrun.launcher <> - set environment variable: CL_CONFIG_USE_VTUNE = True
+274 [1040] INFO perfrun.launcher <> - set environment variable: KMP_FORKJOIN_FRAMES = 0
+274 [1040] INFO perfrun.launcher <> - set environment variable: KMP_FORKJOIN_FRAMES_MODE = 0
+274 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_MRTE_DATA_DIR = C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0
+274 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_MRTE_HOST_NAME = oliverpc
+274 [1040] INFO perfrun.launcher <> - set environment variable: JAVA_TOOL_OPTIONS = -agentlib:amplxe_samplingmrte_javaprof_1.0
+274 [1040] INFO perfrun.launcher <> - set environment variable: PATH = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\runtime;C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\runtime;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.6\libnvvp;C:\VulkanSDK\1.3.275.0\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\glfw-3.4.bin.WIN64\lib-vc2022;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\CMake\bin;C:\Program Files\PuTTY\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\Assimp\bin\x64;C:\Program Files\NVIDIA Corporation\Nsight Compute 2024.3.2\;C:\Users\ASUS\Desktop\Reference\premake-5.0.0-beta4-src\bin\release;C:\MinGW\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\ASUS\Desktop\Reference\vcpkg;C:\Users\ASUS\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\ASUS\AppData\Local\Programs\Python\Python313\;C:\Users\ASUS\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\ASUS\AppData\Local\Programs\Python\Python312\;C:\Users\ASUS\AppData\Local\Programs\Python\Launcher\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\.dotnet\tools;C:\Program Files\KTX-Software\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ASUS\AppData\Local\Programs\Ollama
+274 [1040] INFO perfrun.launcher <> - set environment variable: COR_ENABLE_PROFILING = 1
+274 [1040] INFO perfrun.launcher <> - set environment variable: COR_PROFILER = {AA5E4821-E3B1-479c-B7FF-5AD047D22CED}
+274 [1040] INFO perfrun.launcher <> - set environment variable: COMPLUS_ProfAPI_ProfilerCompatibilitySetting = EnableV2Profiler
+274 [1040] INFO perfrun.launcher <> - set environment variable: CORECLR_ENABLE_PROFILING = 1
+274 [1040] INFO perfrun.launcher <> - set environment variable: CORECLR_PROFILER = {AA5E4821-E3B1-479c-B7FF-5AD047D22CED}
+275 [1040] INFO perfrun.launcher <> - set environment variable: CORECLR_PROFILER_PATH = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64/amplxe_samplingmrte_clrprof_1.0.dll
+275 [1040] INFO perfrun.launcher <> - set environment variable: INTEL_MRTE_PROFILER_MODE = mixed
+275 [1040] INFO perfrun.launcher <> - RpcServer: run RPC server to handle requests
+309 [1040] INFO perfrun.sdk <> - IProcessUtil: the given executable 'C:\Users\ASUS\Desktop\Networking Ghost\x64\Debug\Ghost.exe' is valid.
+309 [1040] INFO perfrun.launcher <> - Launcher: command line to start before modification = C:\Users\ASUS\Desktop\Networking Ghost\x64\Debug\Ghost.exe
+314 [1040] INFO perfrun.launcher <> - Launcher: command line to start after modification = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\pin.exe -error_file C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0\pinerr.tpsslog -detach_reattach -probe -follow_execv -p32 C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\pin.exe -p64 C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\pin.exe -t64 C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\tpsstool.dll -t C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin32\tpsstool.dll -server_name tpss_ipc.2360 -prd_dir C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1 -- C:\Users\ASUS\Desktop\Networking Ghost\x64\Debug\Ghost.exe
+314 [1040] INFO perfrun.launcher <> - ProcessCreator object was created
+341 [1040] INFO perfrun.launcher <> - Launcher: the process was started in suspend mode
+342 [9308] INFO perfrun.itt <> - start itt controller for pid #3816
+343 [9308] INFO perfrun.tpss <> - start tpss controller for pid #3816
+394 [1040] INFO perfrun.launcher <> - Launcher: all plugins were started
+394 [1040] INFO perfrun.launcher <> - DirectoryMonitor object was created
+394 [1040] INFO perfrun.launcher <> - DirectoryMonitor: a callback was added
+394 [1040] INFO perfrun.launcher <> - DirectoryMonitor was started with pingTime = 1000
+394 [1040] INFO perfrun.launcher <> - DeadlineTimer is going to be constructed
+394 [1040] INFO perfrun.launcher <> - DeadlineTimer: a callback was added
+402 [1040] INFO perfrun.launcher <> - Launcher: resume the profiled application and  wait its termination or stop command
+29525 [20148] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29525 [20152] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29525 [18188] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29525 [15596] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29532 [17308] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29540 [4388] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29546 [15492] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29554 [8264] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29561 [14376] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29569 [3220] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29576 [16968] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29583 [14236] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29590 [8808] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29597 [6628] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29604 [2808] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29610 [16108] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29618 [12736] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29625 [11692] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29632 [12012] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29639 [11756] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29647 [11244] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29655 [12148] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29663 [1404] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29672 [2024] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29681 [12752] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29691 [19316] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29699 [12180] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29706 [13516] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29713 [2756] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29720 [19648] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29728 [18156] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29735 [1088] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29742 [20328] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29749 [2124] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29756 [8676] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29765 [1084] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29773 [12316] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29782 [20356] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29789 [20360] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29796 [12440] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29803 [17676] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29810 [6504] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29817 [2420] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29824 [16152] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29831 [18380] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29838 [4840] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29846 [9328] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29853 [6760] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29860 [9232] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29867 [17484] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29875 [19036] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29883 [19032] ERROR perfrun.launcher <> - Messenger::say: Failed to get a thread handle when attaching to the process due to OS error (Access is denied.
+). Data for the thread will not be collected.
+29994 [1040] WARN perfrun.sdk <> - Unexpected exit status - -1073741510, at file: vcs\perfrun1\sdk\src\utils_win.cpp:541
+29994 [1040] INFO perfrun.launcher <> - Launcher: the profiled application was terminated  with exit code = -1073741510
+30022 [9308] INFO perfrun.itt <> - detach itt controller
+30022 [9308] INFO perfrun.itt <> - detach itt controller done
+30022 [9308] INFO perfrun.tpss <> - stop tpss controller
+30024 [9308] INFO perfrun.sdk <> - De-allocating TMU: C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0\systemcollector-2360-oliverpc.sc
+30044 [9308] INFO perfrun.system <> - closed the system trace file: C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r000ps\data.0\systemcollector-2360-oliverpc.sc
+30045 [1040] INFO perfrun.launcher <> - Launcher: all plugins were stopped.
+30045 [1040] INFO perfrun.launcher <> - DeadlineTimer is going to be destroyed
+30045 [1040] INFO perfrun.launcher <> - DeadlineTimer was destroyed
+30045 [1040] INFO perfrun.launcher <> - DirectoryMonitor object was destroyed
+30045 [1040] WARN perfrun.launcher <> - Stop command is ignored because it is received when collection is already stopped, at file: vcs\perfrun1\launcher\src\command_handler.cpp:226
+30047 [1040] INFO perfrun.launcher <> - Application exit code: -1073741510
+30047 [1040] INFO perfrun.launcher <> - Exit code: 4

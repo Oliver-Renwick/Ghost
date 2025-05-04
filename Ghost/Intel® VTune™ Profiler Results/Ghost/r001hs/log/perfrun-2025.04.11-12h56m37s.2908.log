@@ -1,0 +1,12 @@
+99 [2192] INFO perfrun.launcher <> - Launcher main begin
+105 [2192] INFO perfrun.launcher <> - MessageCatalogInit finished
+105 [2192] INFO perfrun.launcher <> - Launcher instance created
+105 [2192] INFO perfrun.launcher <> - argc = 9; cmdline = C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\amplxe-runss.exe --ui-output-format xml --ui-output-fd 1308 -r C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r001hs --command stop 
+118 [2192] INFO perfrun.launcher <> - New signal handler callback was added
+172 [2192] INFO perfrun.perfcollector <> - SEP tool path: C:\Program Files (x86)\Intel\oneAPI\vtune\2025.1\bin64\sep.exe
+187 [2192] INFO perfrun.launcher <> - create msngr2::ICliToolContext
+187 [2192] INFO perfrun.launcher <> - create file finder object
+188 [2192] INFO perfrun.launcher <> - open the result directory: pattern = C:\Users\ASUS\Desktop\Networking Ghost\Ghost\Intel® VTune™ Profiler Results\Ghost\r001hs
+193 [2192] INFO perfrun.launcher <> - RpcClient: IP address = 127.0.0.1; port = 4294960586
+773 [2192] INFO perfrun.launcher <> - Application exit code: 0
+773 [2192] INFO perfrun.launcher <> - Exit code: 0
