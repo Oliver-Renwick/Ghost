@@ -12,7 +12,7 @@
 
 ## 🔹 Preview Videos
 
-[![Preview 1](https://user-images.githubusercontent.com/your-id/preview1.png)](https://www.youtube.com/watch?v=YTnyMrknYvQ)  
+[![Preview 1](https://github.com/user-attachments/assets/8d41dd2a-a300-42da-beaf-d41fda5eccab)](https://www.youtube.com/watch?v=YTnyMrknYvQ)  
 [Watch on YouTube](https://www.youtube.com/watch?v=YTnyMrknYvQ)
 
 &nbsp;
