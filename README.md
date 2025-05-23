@@ -64,4 +64,8 @@
 
 - **Co-op Networking** — Expanding the multiplayer system to support cooperative multiplayer gameplay with synchronized states.
 
+&nbsp;
+---
+> **Note**  
+> This engine is built exclusively using the Win32 API and is supported only on Windows.
 
