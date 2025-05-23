@@ -41,3 +41,27 @@
 - **Dear ImGui** — Debug tools and in-engine UI overlay  
 - **Winsock** — Windows Sockets API for custom UDP multiplayer  
 - **nlohmann::json** — Lightweight JSON parser used to define Frame Graph / Render Graph structures
+
+---
+
+&nbsp;
+
+## On Progress Features
+
+- **Animation Support** — Implementing full skeletal and morph target animations for characters and objects to enable smooth, realistic motion.
+
+- **Asynchronous Compute** — Integrating asynchronous compute shaders to offload non-graphics tasks such as physics calculations and post-processing effects. This allows better GPU utilization by running compute workloads concurrently with graphics rendering.
+
+---
+
+&nbsp;
+
+## Future Goals
+
+- **Mesh Shaders** — Planning to adopt mesh shaders for more flexible and efficient geometry processing, enabling finer control over the graphics pipeline and potentially improving performance for complex scenes.
+
+- **Robust Physics Collision** — Enhancing the physics engine to support more accurate and stable collision detection and response.
+
+- **Co-op Networking** — Expanding the multiplayer system to support cooperative multiplayer gameplay with synchronized states.
+
+
