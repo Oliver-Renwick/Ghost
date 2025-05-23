@@ -32,8 +32,7 @@ Ghost features custom rendering, physics simulation, and multiplayer networking 
 
 ## 📸 Screenshots
 
-> *(Insert a few screenshots or videos here)*  
-> If you're also doing YouTube devlogs — embed links or thumbnails.
+https://www.youtube.com/watch?v=YTnyMrknYvQ
 
 ---
 
