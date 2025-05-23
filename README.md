@@ -1,4 +1,4 @@
-# 👻 Ghost Engine
+# Ghost Engine
 
 A lightweight, high-performance real-time game engine written in C++ using Vulkan.  
 Ghost features custom rendering, physics simulation, and multiplayer networking — built from scratch.
