@@ -7,7 +7,9 @@
 - Frame graph system for efficient render pass management  
 - Custom UDP-based multiplayer networking  
 - Impulse-based physics simulation
-- - GLTF file loading with full PBR material support
+- Bindless Descriptor
+- Dynamic Rendering
+- GLTF file loading with full PBR material support
 -  skeletal animation (in progress)  
 - Async compute (in progress)
 
