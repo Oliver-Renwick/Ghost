@@ -47,14 +47,3 @@ https://www.youtube.com/watch?v=YTnyMrknYvQ
 - [KTX-Software](https://github.com/KhronosGroup/KTX-Software)
 
 ---
-
-## 📂 Folder Structure
-
-```bash
-Ghost/
-├── Engine/           # Core engine modules (Rendering, Physics, Networking)
-├── Assets/           # GLTF models, KTX textures, skybox
-├── Shaders/          # GLSL shaders compiled to SPIR-V
-├── ThirdParty/       # External libraries
-├── Platform/         # Win32 abstraction
-└── App/              # Main application & demo scenes
