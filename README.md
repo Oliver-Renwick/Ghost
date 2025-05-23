@@ -4,7 +4,7 @@
 
 - Multithreaded draw submission  
 - Asynchronous asset streaming  
-- Frame graph system for efficient render pass management  
+- Frame graph data structure for efficient render pass management  
 - Custom UDP-based multiplayer networking  
 - Impulse-based physics simulation
 - Bindless Descriptor
