@@ -46,7 +46,7 @@
 ---
 
 
-## On Progress Features
+## 🚧 On Progress Features
 
 - **Animation Support** — Implementing full skeletal and morph target animations for characters and objects to enable smooth, realistic motion.
 
@@ -56,7 +56,7 @@
 ---
 
 
-## Future Goals
+## 🎯 Future Goals
 
 - **Mesh Shaders** — Planning to adopt mesh shaders for more flexible and efficient geometry processing, enabling finer control over the graphics pipeline and potentially improving performance for complex scenes.
 
