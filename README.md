@@ -12,7 +12,7 @@
 
 ## 🔹 Preview Videos
 
-[![Preview 1](https://github.com/user-attachments/assets/8d41dd2a-a300-42da-beaf-d41fda5eccab)](https://www.youtube.com/watch?v=YTnyMrknYvQ)  
+[![Preview 1](https://github-production-user-asset-6210df.s3.amazonaws.com/111285385/446884791-8d41dd2a-a300-42da-beaf-d41fda5eccab.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250523T063620Z&X-Amz-Expires=300&X-Amz-Signature=679e2d0420f2cee05f0ad04a793d6f7536d315e7120ec0d1d4cc959558eb32f1&X-Amz-SignedHeaders=host)](https://www.youtube.com/watch?v=YTnyMrknYvQ)  
 [Watch on YouTube](https://www.youtube.com/watch?v=YTnyMrknYvQ)
 
 &nbsp;
